@@ -1,0 +1,30 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #fbe6c2;
+    text-align: center;
+}
+.formulaire {
+    background-color: #d0af84;
+    width: 380px;
+    border-radius: 4%;
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-top: 6%;
+    padding-bottom: 3%;
+}
+.champ_formulaire {
+    padding: 2%;
+}
+.logo {
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+p {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.btn {
+    background-color: #318ce7;
+}
