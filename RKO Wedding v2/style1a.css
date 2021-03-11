@@ -1,0 +1,28 @@
+body, html {
+    font-family: 'Cormorant Garamond', serif !important;
+    background-color: #fbe6c2 !important;
+    height: auto;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+.formulaire {
+    background-color: #d0af84;
+    height: 117%;
+    padding-top: 20%;
+    
+}
+.form-floating {
+    display: inline-flex;
+    justify-content: center;
+}
+.column {
+    text-align: center;
+}
+.intro {
+    font-size: 30px;
+    color: #112c46;
+    font-size: 40px;
+}
+
