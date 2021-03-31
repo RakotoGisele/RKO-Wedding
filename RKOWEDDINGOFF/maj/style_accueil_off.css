@@ -1,0 +1,57 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:  #fbe6c2 !important;
+    font-family: 'Cormorant Garamond', serif;
+}
+.navbar {
+    background-color: white;
+}
+.nav-link {
+    color: #d0af84;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.nav-link:hover {
+    color: #112c46;
+}
+.card {
+    background-color: #d0af84;
+    color: #112c46;
+    height: 24rem;
+    margin-top: 20%;
+}
+.cards {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    height: fit-content;
+}
+.titre {
+    font-family: 'Judson', serif;
+    color: #112c46;
+    display: flex;
+    justify-content: center;
+    padding-top: 6%;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.titre1 {
+    font-family: 'Judson', serif;
+    color: #112c46;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    padding-top: 4%;
+}
+.btn_ajouter {
+    background-color: #fbd872;
+    color: #112c46;
+    display: flex;
+    justify-content: center;
+}
+.btn_ajouter:hover {
+    color: #d0af84;
+}
