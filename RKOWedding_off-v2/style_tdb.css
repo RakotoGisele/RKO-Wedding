@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:  #fbe6c2 !important;
+    height: 100vh !important;
+    font-family: 'Cormorant Garamond', serif;
+    
+}
+.navbar {
+    background-color: white;
+}
+.nav-link {
+    color: #d0af84;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.nav-link:hover {
+    color: #112c46;
+}
+.columns {
+    padding-top: 5% !important;
+}
+.table {
+    padding-top: 2%;
+}
+.titre {
+    text-align: center;
+    color: #112c46;
+    font-family: 'Judson', serif;
+}
+.table {
+    padding-top: 6%;
+}
