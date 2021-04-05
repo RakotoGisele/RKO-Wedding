@@ -1,0 +1,92 @@
+body {
+    position: relative; 
+    font-family: 'Cormorant Garamond', serif;
+}
+.navbar {
+    background-color: white !important;
+    border-bottom: none;
+}
+.nav-link {
+    color: #d0af84 !important;
+    font-family: 'Cormorant Garamond', serif !important;
+}
+.nav-link:hover {
+    color: #112c46 !important;
+}
+#section1 {
+    padding-top:50px;
+    height:658px;
+    color: #fff; 
+    background-image: url("image - accueil.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.premier {
+    font-family: 'Judson', serif;
+    font-size: 6.5rem;
+    padding-top: 26%;
+    padding-left: 30%;
+}
+.sous-titre {
+    font-family: 'Judson', serif;
+    font-size: 2.4rem;
+    padding-left: 26%;
+}
+#section2 {
+    padding-top:50px;
+    height:1100px;
+    color: #112c46; 
+    background-color: #d0af84;
+}
+.qui {
+    font-size: 1.7rem;
+    padding-left: 12%;
+}
+.presentation {
+    padding-left: 40%;
+}
+.photo_admin {
+    float: right;
+    padding-right: 12%;
+}
+.qui2 {
+    font-size: 1.7rem;
+    
+}
+.photo_admin2 {
+    float: left;
+    padding-left: 12%;
+    padding-right: 5%;
+}
+.signature {
+    float: right;
+    padding-right: 20%;
+}
+.partie2 {
+    padding-top: 5%;
+}
+#section3 {
+    padding-top:50px;
+    height:658px;
+    color: #112c46; 
+    background-color: #ff9800;
+}
+#section4 {
+    padding-top:50px;
+    height:658px;
+    color: #112c46;
+    background-color: #00bcd4;
+}
+#section5 {
+    padding-top:50px;
+    height:658px;
+    color: #112c46;
+    background-color: burlywood;
+}
+#section6 {
+    padding-top:50px;
+    height:658px;
+    color: #112c46;
+    background-color: coral;
+}
